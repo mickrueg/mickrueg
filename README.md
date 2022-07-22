@@ -1,4 +1,9 @@
-### Hi there 👋
+### Howdy 👋
+
+I have a knack for building clean web applications and my peers would describe me as a self-starter, strong communicator, and average rock climber.
+
+I build in React, CSS, JavaScript, Google Apps Script, and more. Check out my [portfolio site](https://mikekrueger.netlify.app/) to see the magic.
+
 
 <!--
 **mickrueg/mickrueg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
