@@ -1,4 +1,4 @@
-### Howdy 👋
+### Hello 👋
 
 I have a knack for building clean web applications and my peers would describe me as a self-starter, strong communicator, and average rock climber.
 
